@@ -1,5 +1,5 @@
 # Mental-Health-AI-Chatbot
-Our product is a mental health chatbot 🤖designed to 
+A mental health chatbot 🤖 designed to 
 provide personalized anxiety assessments and solutions 
 based on users' personality types. 
 
